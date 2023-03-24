@@ -48,4 +48,3 @@ player setSpeaker "NoVoice";
 showSubtitles false;
 // Radio Protocol disabled
 player disableAI "RADIOPROTOCOL";
-allPlayers disableAI "RADIOPROTOCOL";
