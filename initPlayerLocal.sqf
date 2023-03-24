@@ -8,6 +8,9 @@ showSubtitles false;
 player disableAI "RADIOPROTOCOL";
 allPlayers disableAI "RADIOPROTOCOL";
 
+//mabye fix AI speaking
+enableRadio false;
+
 if(!isDedicated) then 
 {
  ﻿﻿   waitUntil {!isNull﻿﻿﻿﻿﻿ (findDisplay 46)}; // Wait for main display

@@ -1,6 +1,6 @@
 ﻿onLoadName = "GameMaster 44RR Eden";
 author = Comunista_CZ;
-onLoadMission = "Verze 1.22";
+onLoadMission = "Verze 1.24";
 overviewText = "Enjoy your on spot made mission scenario";
 overviewTextLocked = "Locked! Contact admin for information.";
 loadScreen = "cover.jpg";
